@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋 I'm [Manish Yadav](https://github.com/Manya7864),
 🔭 I’m currently working on Self Development<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about Javascript, ReactJS<br>⚡ Fun fact Not So Funny
 
 
