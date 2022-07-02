@@ -20,7 +20,7 @@
 
 
 
-# ✍️ Random Dev Quote
+# ✍️ Random  Quote:
 
 
 
