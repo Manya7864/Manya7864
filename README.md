@@ -1,7 +1,7 @@
 # Hi 👋 I'm [Manish Yadav](https://github.com/Manya7864),
-🔭 I’m currently working on Self Development<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about Javascript, ReactJS<br>⚡ Fun fact Not So Funny<br> 📝 I occasionaly write articles on [medium](https://medium.com/@manishyadav78642080)<br>👨‍💻  All of my projects are available at [github repo](https://github.com/Manya7864?tab=repositories)<br>📫 How to reach me **manishyadav78642080@gmail.com**
+🔭 I’m currently working on Self Development<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about Javascript, ReactJS<br>⚡ Fun fact Not So Funny<br> 📝 I occasionaly write articles on [medium](https://medium.com/@manishyadav78642080)👨‍💻<br> All of my projects are available at [github repo](https://github.com/Manya7864?tab=repositories)<br>📫 How to reach me **manishyadav78642080@gmail.com**
 
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manya7864&theme=radical&no-frame=true&margin-w=10&column=7" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___manish.yadav___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-yadav-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manishyadav78642080) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Manya7864) 
