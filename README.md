@@ -1,6 +1,9 @@
 # Hi 👋 I'm [Manish Yadav](https://github.com/Manya7864),
 🔭 I’m currently working on Self Development<br>👯 I’m looking to collaborate on Learning Reactjs<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about Javascript, ReactJS<br>⚡ Fun fact Not So Funny<br> 📝 I occasionaly write articles on [medium](https://medium.com/@manishyadav78642080)👨‍💻<br> All of my projects are available at [github repo](https://github.com/Manya7864?tab=repositories)<br>📫 How to reach me **manishyadav78642080@gmail.com**
 
+
+
+🏆 Github Trophy:
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manya7864&theme=radical&no-frame=true&margin-w=10&column=7" /> </p>
 
 ## 🌐 Socials:
