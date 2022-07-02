@@ -3,7 +3,9 @@
 
 
 
-🏆 Github Trophy:
+# 🏆 Github Trophy:
+
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Manya7864&theme=radical&no-frame=true&margin-w=10&column=7" /> </p>
 
 ## 🌐 Socials:
