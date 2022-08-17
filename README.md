@@ -1,5 +1,5 @@
 # Hi 👋 I'm [Manish Yadav](https://github.com/Manya7864),
-🔭 I’m currently working on Self Development<br>👯 I’m looking to collaborate on WEb Development Projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about anything related MERN Developent, I am happy to help<br>⚡ Fun fact Not So Funny<br> 📝 I occasionaly write articles on [medium](https://medium.com/@manishyadav78642080)<br>👨‍💻 All of my projects are available at [github repo](https://github.com/Manya7864?tab=repositories)<br>📫 How to reach me **manishyadav78642080@gmail.com**
+🔭 I’m currently working on Self Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Full Stack Web Developer<br>💬 Ask me about anything related MERN Developent, I am happy to help<br>⚡ Fun fact Not So Funny<br> 📝 I occasionaly write articles on [medium](https://medium.com/@manishyadav78642080)<br>👨‍💻 All of my projects are available at [github repo](https://github.com/Manya7864?tab=repositories)<br>📫 How to reach me **manishyadav78642080@gmail.com**
 
 
 
